@@ -4,3 +4,4 @@ logs
 tmp
 vendor
 nginx.conf
+*_temp
