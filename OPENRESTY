@@ -1,0 +1,2 @@
+openresty "1.2.8.6"
+rock https://raw.github.com/bakins/stardust/master/lua-stardust-scm-0.rockspec

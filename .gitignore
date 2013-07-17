@@ -1,0 +1,5 @@
+.vagrant
+bin
+logs
+tmp
+vendor
